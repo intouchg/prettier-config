@@ -1,6 +1,6 @@
 {
     "name": "@intouchg/prettier-config",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "Prettier configuration for the Intouch Design System",
     "main": "index.json",
     "repository": "https://github.com/intouchg/prettier-config",

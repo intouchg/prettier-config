@@ -10,7 +10,7 @@ To use in your own custom configuration, install then extend this package in you
 
 1. Install dependencies
 ```sh
-yarn add @intouchg/prettier-config prettier
+yarn add --dev @intouchg/prettier-config prettier
 ```
 
 2. Configure Prettier
