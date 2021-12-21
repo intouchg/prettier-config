@@ -1,32 +1,19 @@
 # @intouchg/prettier-config
 
-Prettier configuration for the Intouch Design System
+Prettier configuration for the [Intouch Design System](https://ids.intouchg.co/)
 
-
-### Getting Started
+## Getting Started
 
 This Prettier configuration is automatically included in the Intouch Design System app boilerplate [@intouchg/starter](https://npmjs.com/package/@intouchg/starter).
 
-To use in your own custom configuration, install then extend this package in your Prettier config.
+To use in your own custom configuration, install then extend this package in your Prettier config:
 
-
-#### Install dependencies
-
-```jsonc
-// package.json
-{
-    "devDependencies": {
-        "@intouchg/prettier-config": "latest",
-        "prettier": "latest"
-    }
-}
+1. Install dependencies
+```sh
+yarn add @intouchg/prettier-config prettier
 ```
-<br>
 
-
-
-#### Configure Prettier
-
+2. Configure Prettier
 ```jsonc
 // .prettierrc
 "@intouchg/prettier-config"
